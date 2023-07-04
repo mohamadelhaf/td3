@@ -1,0 +1,19 @@
+{
+    "name": "mhdel/td3",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mhdel\\Td3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamad elhaf",
+            "email": "mhd_elhaf659@outlook.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}
